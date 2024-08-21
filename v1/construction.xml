@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/bathroom-furniture.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/construction-accessories.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/construction-machinery.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/energy.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/floors-and-grouts.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/kitchen-furniture.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/openings.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/painting.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/plumbing.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/work-materials.xml</loc>
+  </sitemap>
+</sitemapindex>

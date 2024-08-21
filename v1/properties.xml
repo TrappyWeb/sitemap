@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/apartments.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/commercial-rooms.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/commercial-stores.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/farms.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/flat-apart-hotel.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/houses.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/land.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/other-properties.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/sheds.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/sites.xml</loc>
+  </sitemap>
+</sitemapindex>

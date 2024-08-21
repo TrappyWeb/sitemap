@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/antiques.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/bills-and-coins.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/flags.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/militaria-and-the-like.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/other-antiques.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/philately.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/posters.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/sculptures.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/sports-collectibles.xml</loc>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/albums-and-photo-frames.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/cables.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/camcorders.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/camera-accessories.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/camera-parts.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/cameras.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/development-equipment.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/drones-and-accessories.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/lenses-and-filters.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/optical-instruments.xml</loc>
+  </sitemap>
+</sitemapindex>

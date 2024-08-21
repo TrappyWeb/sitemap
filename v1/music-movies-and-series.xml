@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/courses.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/films.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/music.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/online-movies.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/online-series.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/recipe-and-diy-videos.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://backend.trappyweb.com/sitemap/ad/search/series.xml</loc>
+  </sitemap>
+</sitemapindex>
